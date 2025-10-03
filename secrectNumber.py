@@ -1,6 +1,6 @@
 import os
 
-msgWel = 'Welcome to the Secret Number Game 🤔'
+msgWel = 'Welcome to the game "Guess the Secret Number" 🤔'
 print('-' * len(msgWel))
 print(msgWel)
 print('-' * len(msgWel))
